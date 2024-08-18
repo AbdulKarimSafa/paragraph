@@ -1,0 +1,173 @@
+.body {
+    text-align: center;
+    margin-top: 0px;
+    
+    
+    
+    
+}
+
+
+.first-section {
+    background-color: rgb(228, 253, 253);
+    margin: 0px;
+}
+
+.myname {
+    font-family: Segoe Script;
+    font-size: 4rem;
+    margin: 0px;
+    padding-top: 100px;
+}
+
+.job {
+    font-size: 2rem;
+    padding-top: 50px;
+}
+
+h1 ,h2 ,h3 {
+    color: #62bfbf;
+    padding: 20px;
+}
+
+.cloud1,
+.cloud2 {
+    position: absolute;
+    width: 100px;
+}
+
+.cloud1 {
+    left: 100px;
+    top: 300px;
+}
+
+.cloud2 {
+    right: 100px;
+    top: 50px;
+}
+
+.mountain {
+    width: 800px;
+    position: relative;
+    margin-left: 100px;
+    
+}
+
+.second-section {
+    
+    width: 30%;
+    margin: 30px auto;
+}
+
+.myphoto {
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+}
+
+.copyRight {
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+}
+.facebook,.instigram{
+    font-size: 30px;
+    padding-top: 30px;
+    
+}
+
+.facebook{
+    padding-right: 20%;
+}
+
+
+.form-section {
+    width: 30%;
+    margin: 8% auto 0% auto;
+    font-family: Stencil;
+    color: peachpuff;
+    
+}
+
+.body2 {
+    background-color: aqua;
+
+}
+.form-section form{
+    display: flex;
+    flex-direction: column;
+}
+.form-section form > input , textarea{
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+
+}
+
+.form-section form > textarea{
+    height: 150px;
+}
+
+
+.tirth-section{
+    width: 30%;
+    margin: 30px auto 30px auto;
+}
+
+
+
+    
+
+
+
+.skill-image{
+    float: left;
+    width: 30%;
+    
+}
+.links{
+    background-color: mediumturquoise;
+}
+
+
+    
+
+
+hr{
+
+    border: 5px dotted aqua;
+    width: 10%;
+    border-bottom: 100px;
+    margin: 100px auto 100px auto;
+    
+}
+p {
+    padding: 20px;
+    line-height: 40px;
+}
+
+.fourth-section{
+    width: 30%;
+    margin: 30px auto 30px auto;
+}
+.btn1{
+    background-color: dodgerblue;
+    padding: 10px;
+    width: 170px;
+    color: white;
+    border-radius: 10px;
+    border: 0px;
+    margin-top: 10px;
+    
+    
+
+}
+
+a {
+    text-decoration: none;
+    color: ghostwhite;
+    font-size: 25px;
+    
+    
+
+}
